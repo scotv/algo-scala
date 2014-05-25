@@ -1,3 +1,5 @@
+*.swp
+
 # Scala
 *.class
 *.log
