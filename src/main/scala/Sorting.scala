@@ -1,4 +1,4 @@
-package sorting
+package algo
 
 object Sorting {
   def sort[T](lst: Seq[T], lt: (T, T) => Int): Seq[T]
