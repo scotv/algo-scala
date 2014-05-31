@@ -1,4 +1,4 @@
-name := "algo-x-scala"
+name := "algo-scala"
 
 scalaVersion := "2.10.2"
 
